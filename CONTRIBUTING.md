@@ -1,3 +1,3 @@
 Main contributors to this project: 
- - Tuan (CI)
- - Thao (AI)
+ - Tuan (C.Investigator)
+ - Thao (A.Investigator) (Equally contributing)
